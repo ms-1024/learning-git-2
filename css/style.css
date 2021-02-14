@@ -50,3 +50,7 @@ h2 {
     font-style: oblique;
     letter-spacing: normal;
 }
+
+.p {
+    display: none;
+}
